@@ -1,10 +1,10 @@
 # TermuXpert 🚀 
 
 [![npm version](https://img.shields.io/npm/v/termuxpert.svg?style=flat-square&color=cyan)](https://www.npmjs.com/package/termuxpert)
-[![GitHub stars](https://img.shields.io/github/stars/nexoscreation/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert)
-[![GitHub issues](https://img.shields.io/github/issues/nexoscreation/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/nexoscreation/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/pulls)
-[![GitHub license](https://img.shields.io/github/license/nexoscreation/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert)
+[![GitHub issues](https://img.shields.io/github/issues/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/pulls)
+[![GitHub license](https://img.shields.io/github/license/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/blob/main/LICENSE)
 
 > 🛠️ Supercharge your Termux experience with TermuXpert - Your all-in-one toolkit for Android terminal mastery!
 
@@ -26,7 +26,7 @@ TermuXpert brings a suite of powerful tools to enhance your Termux environment:
 Get TermuXpert up and running with a single command:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/nexoscreation/TermuXpert/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/nexoslabs/TermuXpert/main/install.sh | bash
 ```
 
 Once installed, launch TermuXpert by typing:
@@ -59,9 +59,9 @@ Check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 Join our vibrant community:
 
-- [💬 Discussions](https://github.com/nexoscreation/TermuXpert/discussions): Share ideas, ask questions
-- [🐛 Issue Tracker](https://github.com/nexoscreation/TermuXpert/issues): Report bugs or request features
-- [🌟 Star this repo](https://github.com/nexoscreation/TermuXpert) to show your support!
+- [💬 Discussions](https://github.com/nexoslabs/TermuXpert/discussions): Share ideas, ask questions
+- [🐛 Issue Tracker](https://github.com/nexoslabs/TermuXpert/issues): Report bugs or request features
+- [🌟 Star this repo](https://github.com/nexoslabs/TermuXpert) to show your support!
 
 ## 📄 License
 
@@ -80,9 +80,9 @@ TermuXpert is intended for educational and legitimate purposes only. The develop
 ---
 
 <p align="center">
-  Made with ❤️ by the TermuXpert Team
+  Made with ❤️ by Nexos Labs Team
 </p>
 
 <p align="center">
-  <a href="https://github.com/nexoscreation/TermuXpert/stargazers">⭐ Star us on GitHub!</a>
+  <a href="https://github.com/nexoslabs/TermuXpert/stargazers">⭐ Star us on GitHub!</a>
 </p>
