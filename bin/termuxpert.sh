@@ -83,7 +83,7 @@ display_help() {
     echo -e "   ${TERMUXPERT_COLOR_UNDERLINE}https://discord.gg/A3euTAVqHv${TERMUXPERT_COLOR_RESET}"
     echo ""
     echo -e "❯ ${TERMUXPERT_COLOR_CYAN}GitHub Repository:${TERMUXPERT_COLOR_RESET} Report issues or contribute to the project."
-    echo -e "   ${TERMUXPERT_COLOR_UNDERLINE}https://github.com/nexoscreation/TermuXpert${TERMUXPERT_COLOR_RESET}"
+    echo -e "   ${TERMUXPERT_COLOR_UNDERLINE}https://github.com/nexoslabs/TermuXpert${TERMUXPERT_COLOR_RESET}"
     echo ""
     echo -e "❯ ${TERMUXPERT_COLOR_CYAN}Documentation:${TERMUXPERT_COLOR_RESET} Learn more about features and usage."
     echo -e "   ${TERMUXPERT_COLOR_UNDERLINE}https://docs.nexoscreator.tech${TERMUXPERT_COLOR_RESET}"

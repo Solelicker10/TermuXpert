@@ -1,8 +1,8 @@
 [![npm version](https://img.shields.io/npm/v/termuxpert.svg?style=flat-square&color=cyan)](https://www.npmjs.com/package/termuxpert)
-[![GitHub stars](https://img.shields.io/github/stars/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert)
-[![GitHub issues](https://img.shields.io/github/issues/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/pulls)
-[![GitHub license](https://img.shields.io/github/license/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoscreation/TermuXpert/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoslabs/TermuXpert)
+[![GitHub issues](https://img.shields.io/github/issues/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoslabs/TermuXpert/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoslabs/TermuXpert/pulls)
+[![GitHub license](https://img.shields.io/github/license/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoslabs/TermuXpert/blob/main/LICENSE)
 
 # TermuXpert 🚀
 
@@ -88,13 +88,13 @@ TermuXpert is intended for educational and legitimate purposes only. The develop
 ## 📬 **Contact & Community**
 
 💬 Join us on **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)  
-🐦 **Follow on Twitter**: [@nexoscreation](https://twitter.com/nexoslabs)  
+🐦 **Follow on Twitter**: [@nexoslabs](https://twitter.com/nexoslabs)  
 📧 **Email**: [contact@nexoscreation.tech](mailto:contact@nexoscreation.tech)
 
 <p align="center">
-  Made with ❤️ by the Nexos Labs Team
+  Made with ❤️ by the <a href="https://github.com/nexoslabs">@nexoslabs</a> Team
 </p>
 
 <p align="center">
-  <a href="https://github.com/nexoscreation/TermuXpert/stargazers">⭐ Star us on GitHub!</a>
+  <a href="https://github.com/nexoslabs/TermuXpert/stargazers">⭐ Star us on GitHub!</a>
 </p>

@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # TermuXpert Installation Script
-# Author: Nexos Creation
+# Author: Nexos Labs
 # Version: 1.0.0
 # Description: Installs TermuXpert with enhanced error handling, background processing, and validation
 
@@ -17,7 +17,7 @@ readonly COLOR_INFO='\033[0;34m'
 readonly COLOR_RESET='\033[0m'
 
 # Configuration
-readonly GITHUB_REPO="nexoscreation/TermuXpert"
+readonly GITHUB_REPO="nexoslabs/TermuXpert"
 readonly REQUIRED_PACKAGES=(git curl wget jq)
 readonly MIN_DISK_SPACE_MB=50
 readonly SUPPORTED_ARCHITECTURES=("aarch64" "arm" "x86_64")
@@ -159,7 +159,7 @@ post_install_summary() {
     echo "Version: 1.0.0"
     echo "Disk Space: $(df -h "$HOME" | awk 'NR==2 {print $4}') available"
     echo ""
-    echo "Documentation: https://github.com/nexoscreation/TermuXpert"
+    echo "Documentation: https://github.com/nexoslabs/TermuXpert"
     echo "Support: https://discord.gg/ejfxG2Qpjk"
     echo ""
     log_info "Thank you for using TermuXpert!"

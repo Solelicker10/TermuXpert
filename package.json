@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexoscreation/TermuXpert.git"
+    "url": "git+https://github.com/nexoslabs/TermuXpert.git"
   },
   "keywords": [
     "termux",
@@ -29,10 +29,10 @@
   "author": "nexoscreator",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nexoscreation/TermuXpert/issues",
+    "url": "https://github.com/nexoslabs/TermuXpert/issues",
     "email": "support@nexoscreation.tech"
   },
-  "homepage": "https://github.com/nexoscreation/TermuXpert#readme",
+  "homepage": "https://github.com/nexoslabs/TermuXpert#readme",
   "engines": {
     "node": ">=14.0.0"
   },
