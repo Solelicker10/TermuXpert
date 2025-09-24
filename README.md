@@ -85,7 +85,7 @@ TermuXpert is intended for educational and legitimate purposes only. The develop
 
 ---
 
-## 📬 **Contact & Community**
+## 📬 Contact & Community
 
 💬 Join us on **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)  
 🐦 **Follow on Twitter**: [@nexoslabs](https://twitter.com/nexoslabs)  
