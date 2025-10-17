@@ -1,5 +1,5 @@
 [![npm version](https://img.shields.io/npm/v/termuxpert.svg?style=flat-square&color=cyan)](https://www.npmjs.com/package/termuxpert)
-[![GitHub stars](https://img.shields.io/github/stars/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoslabs/TermuXpert)
+[![GitHub stars](https://img.shields.io/github/stars/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/solelicker/TermuXpert)
 [![GitHub issues](https://img.shields.io/github/issues/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoslabs/TermuXpert/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoslabs/TermuXpert/pulls)
 [![GitHub license](https://img.shields.io/github/license/nexoslabs/TermuXpert.svg?style=flat-square&color=cyan)](https://github.com/nexoslabs/TermuXpert/blob/main/LICENSE)
